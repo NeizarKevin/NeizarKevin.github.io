@@ -590,6 +590,9 @@ footer span a:hover{
     .portfolio .port-content .card{
         width: 100%;
     }
+    .blog .blog-content .card{
+        width: 100%;
+    }
 }
 
 @media (max-width: 500px) {
